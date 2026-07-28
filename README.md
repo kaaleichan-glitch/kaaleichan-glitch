@@ -16,6 +16,8 @@ I build things through **vibe coding**. I don't come from a traditional tech bac
 | --- | --- |
 | [Philosophy Snake](https://github.com/kaaleichan-glitch/philosophy-snake) | A browser game blending snake mechanics with philosophical prompts |
 | [ASCII Camera](https://github.com/kaaleichan-glitch/ascii-camera) | Turn your camera into live ASCII art, right in the browser |
+| [请高一点喝一杯 / Buy Gaoyidian a Drink](https://github.com/kaaleichan-glitch/buy-gaoyidian-a-drink) | An interactive cocktail-tavern web app with a question bank and drink menu |
+| [BeatKnife](https://github.com/kaaleichan-glitch/BeatKnife) | A browser tool that detects and slices beats from music |
 
 ## How I work
 
